@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Varsha Amresh 
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning UI/UX
+- 👀 I hop around tech and AI for Business. 
   
 
 <!---
